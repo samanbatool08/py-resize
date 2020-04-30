@@ -8,3 +8,12 @@ def cough():
 if __name__ == "__main__":
     main()
 
+
+
+# with paramater for abstraction
+# def main():
+#         cough(3)
+
+# def cough(n):
+#     for i in range(n):
+#         print("cough")
