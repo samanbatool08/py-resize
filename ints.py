@@ -6,5 +6,8 @@ y = get_int("y: ")
 print(f"x + y = {x + y}")
 print(f"x - y = {x - y}")
 print(f"x * y = {x * y}")
+# will produce float
 print(f"x / y = {x / y}")
+# will produce integer
+print(f"x // y = {x // y}")
 print(f"x mod y = {x % y}")
